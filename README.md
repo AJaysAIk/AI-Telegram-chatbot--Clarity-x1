@@ -1,0 +1,1 @@
+copy config_example.py to config.py and insert their own API keys.
